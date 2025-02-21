@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = ["Waffe"]
 image = "csm_affe5_1b3cfa13e2.jpg"
+description = "Warum sind Affen nicht als Autofahrer geeignet?"
 +++
 ### 1. **Mangelndes Verständnis für Konsequenzen**
 
